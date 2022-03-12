@@ -1,0 +1,3 @@
+cgwordleintro.png:
+  type: bopti-image
+  name: intro
